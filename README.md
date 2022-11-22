@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=FFFFFF&height=300&section=header&text=JunKyuLee🍎%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FFFFFF&height=300&section=header&text=JunKyuLee%20&fontSize=90)
 
 ### Hello!! I'm Jun. 👋
 
