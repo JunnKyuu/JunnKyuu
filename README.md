@@ -4,7 +4,7 @@
 
 💻 Computer engineering at MyongJi university. 🏫
 
-I'm currently learning C++.
+I'm currently learning Swift.
 
 I'm interested in iOS application 🍎
 
