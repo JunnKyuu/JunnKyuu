@@ -2,11 +2,11 @@
 
 ### Hello!! I'm Jun. 👋
 
-💻 Computer engineering at MyongJi university. 🏫
+💻 안녕하세요. 제 이름은 이준규이고 명지대학교에서 컴퓨터공학을 전공하고있습니다. 🏫
 
-I'm currently learning Swift.
+저는 현재 Python과 Swift를 공부하고있습니다.
 
-I'm interested in iOS application 🍎
+저는 Ios 어플 개발에 관심이있어서 공부중입니다!!🍎
 
 📝 Language
 
