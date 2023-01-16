@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=191970&height=200&section=header&text=Jun%20&fontSize=80&fontColor=FFFFFF&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rect&color=191970&height=260&section=header&text=Jun%20&fontSize=130&fontColor=FFFFFF&animation=fadeIn)
 
 ---
 
