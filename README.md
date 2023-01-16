@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=151515&height=260&section=header&text=Jun💻%20&font=dadada&textBg=9f9f9f&fontSize=130&fontColor=FFFFFF&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rect&color=151515&height=260&section=header&text=Jun&nbsp;💻%20&font=dadada&textBg=9f9f9f&fontSize=130&fontColor=FFFFFF&animation=fadeIn)
 
 ---
 
@@ -16,9 +16,14 @@
 
 ### 📝 Language
 
-- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunnKyuu)](https://github.com/JunnKyuu/github-readme-stats)
 ---
 
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunnKyuu&show_icons=true&theme=dark) 
+### 📚 Jun's BaekJoon
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=JunnKyuu22)](https://solved.ac/JunnKyuu22)
+
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunnKyuu&show_icons=true&theme=dark)
