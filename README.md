@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=FFFFFF&height=300&section=header&text=JunKyu%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=1E90FF&height=300&section=header&text=JunKyu%20&fontSize=90&fontColor=FFFFFF&animation=fadeIn)
+
 
 ### Hello!! I'm Jun. 👋
 
@@ -11,6 +12,6 @@
 
 📝 Language
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunnKyuu&show_icons=true&theme=dark)
