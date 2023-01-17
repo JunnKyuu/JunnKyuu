@@ -2,13 +2,13 @@
 
 ---
 
-### Hello!! I'm Jun. 👋
+### Hello!! I'm Jun 👋
 
-- 안녕하세요!! 제 이름은 이준규이고 명지대학교에서 컴퓨터공학을 전공하고있습니다.🏫
+- 안녕하세요!! 제 이름은 이준규이고 명지대학교에서 컴퓨터공학을 전공하고있습니다 🏫
 
-- 저는 Ios 어플 개발에 관심이있습니다 🍎.
+- 저는 Ios 어플 개발에 관심이있습니다 🍎
 
-- 현재는 C++ 복습을 위해 알고리즘 문제를 풀고 있고, 프로젝트를 위해 React를 공부하고있습니다 🧑🏻‍💻 .
+- 현재는 C++ 복습을 위해 알고리즘 문제를 풀고 있고, 프로젝트를 위해 React를 공부하고있습니다 📖
 
 ---
 
@@ -20,7 +20,7 @@
 
 ---
 
-### 📚 Jun's BaekJoon
+### 🧑🏻‍💻 Jun's BaekJoon
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junnkyuu22)](https://solved.ac/junnkyuu22) <img src="http://mazandi.herokuapp.com/api?handle=junnkyuu22&theme=dark"/>
 
