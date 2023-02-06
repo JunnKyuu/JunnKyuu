@@ -8,13 +8,13 @@
 
 - 저는 ios 어플 개발에 관심이 있습니다 🍎
 
-- 현재는 C++ 복습을 위해 알고리즘 문제를 풀고 있고, 프로젝트를 위해 React, Swift를 공부하고 있습니다 📖
+- 현재는 C++ 복습을 위해 알고리즘 문제를 풀고 있고, Swift를 공부하고 있습니다 📖
 
 ---
 
 ### 📝 Language
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunnKyuu&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
