@@ -19,14 +19,14 @@
 {
   "name": "Lee Jun Kyu",
   "major": "convergence software"
-  "want to be": "ios developer",
+  "wantToBe": "ios developer",
   "language": {
     "learned": [
       "C",
       "C++",
       "Swift",
     ],
-    "use": ["C++", "Swift"]
+    "canUse": ["C++", "Swift"]
   },
   "motto": "slow and steady",
   "love": ["improvement", "share with others"],
