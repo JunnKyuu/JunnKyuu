@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=160&section=header&text=Hi%20there!%20I'm%20Jun👋&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlign=30&textBg=true)
 
-- 📖History
+📖History
 
 |Date|Type|Organization|
 |-----|---|---|
@@ -9,7 +9,7 @@
 |2023.01 ~ Today|Student|Convergence Software💻　 Myongji University|
 ---
 
-- 📝About me
+📝About me
 ```
 {
   "name": "Lee Jun Kyu",
