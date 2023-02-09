@@ -5,7 +5,7 @@
 - Studying Swift
 <br>
 
-📖History
+🔭History
 
 |Date|Type|Organization|
 |-----|---|---|
@@ -14,7 +14,7 @@
 |2023.01 ~ Today|Student|Convergence Software💻　 Myongji University|
 ---
 
-📝About me
+🪪About me
 ```
 {
   "name": "Lee Jun Kyu",
