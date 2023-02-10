@@ -29,7 +29,7 @@ public:
 class Language {
 public:
   char learned[3][5] = {"C", "C++", "Swift"};
-  char canUse[2][5] = {"C++", "Swift"};
+  string canUse = "C++";
 };
 ```
 ---
