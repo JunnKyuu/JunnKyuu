@@ -16,22 +16,21 @@
 
 🪪About me
 ```
-{
-  "name": "Lee Jun Kyu",
-  "major": "convergence software"
-  "wantToBe": "ios developer",
-  "language": {
-    "learned": [
-      "C",
-      "C++",
-      "Swift",
-    ],
-    "canUse": ["C++", "Swift"]
-  },
-  "motto": "slow and steady",
-  "love": ["improvement", "share with others"],
-  "hobby": ["algorithm", "football", "netflix"]
-}
+class Jun {
+public:
+  string name = "Lee Jun Kyu";
+  string major = "convergence software";
+  string goal = "ios developer";
+  string motto = "slow and steady"
+  char persue[2][10] = {"improvements", "share with others"}; 
+  char hobby[3][10] = {"algorithm", "football", "netflix};
+};
+
+class Language {
+public:
+  char learned[3][10] = {"C", "C++", "Swift"};
+  char canUse[2][10] = {"C++", "Swift"};
+};
 ```
 ---
 |Github|Languages|
