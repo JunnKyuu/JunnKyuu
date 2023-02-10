@@ -11,7 +11,7 @@
 |-----|---|---|
 |2016.03 ~ 2022.02|Student|Mechanical Engineering⚙️　 Kookmin University|
 |2022.03 ~ 2023.01|Student|Computer Engineering💻　 Myongji University|
-|2023.01 ~ Today|Student|Convergence Software💻　 Myongji University|
+|2023.01 ~ Today|Student|Convergence Software🧑🏻‍💻　 Myongji University|
 ---
 
 🪪About me
