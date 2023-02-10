@@ -19,7 +19,7 @@
 class Jun {
 public:
   string name = "Lee Jun Kyu";
-  string major = "convergence software";
+  string major = "application software";
   string goal = "ios developer";
   string motto = "slow and steady";
   char persue[2][20] = {"improvements", "share with others"}; 
