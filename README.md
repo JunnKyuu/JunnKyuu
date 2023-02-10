@@ -21,15 +21,15 @@ public:
   string name = "Lee Jun Kyu";
   string major = "convergence software";
   string goal = "ios developer";
-  string motto = "slow and steady"
-  char persue[2][10] = {"improvements", "share with others"}; 
-  char hobby[3][10] = {"algorithm", "football", "netflix};
+  string motto = "slow and steady";
+  char persue[2][20] = {"improvements", "share with others"}; 
+  char hobby[3][20] = {"algorithm", "football", "netflix"};
 };
 
 class Language {
 public:
-  char learned[3][10] = {"C", "C++", "Swift"};
-  char canUse[2][10] = {"C++", "Swift"};
+  char learned[3][5] = {"C", "C++", "Swift"};
+  char canUse[2][5] = {"C++", "Swift"};
 };
 ```
 ---
