@@ -35,8 +35,8 @@ public:
 ---
 |Github|Languages|
 |-----|---|
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunnKyuu&show_icons=true&theme=dark)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunnKyuu&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)|
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunnKyuu&show_icons=true&theme=transparent)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunnKyuu&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)|
 
 |Solved.ac|OPGC|
 |-----|---|
-|[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junnkyuu22)](https://solved.ac/junnkyuu22)|<a href="https://opgc.me/#/users/junnkyuu" target="_blank"><img src="https://api.opgc.me/githubs/users/junnkyuu/tag/?theme=dracula" /></a>|
+|[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junnkyuu22)](https://solved.ac/junnkyuu22)|<a href="https://opgc.me/#/users/junnkyuu" target="_blank"><img src="https://api.opgc.me/githubs/users/junnkyuu/tag/?theme=transparent" /></a>|
