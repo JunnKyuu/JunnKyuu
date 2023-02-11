@@ -14,7 +14,7 @@
 |2023.01 ~ Today|Student|Application Software💻　 [Myongji University](https://www.mju.ac.kr/sites/mjukr/intro/intro.html)|
 ---
 
-🪪About me
+📝About me
 ```
 class Jun {
 public:
