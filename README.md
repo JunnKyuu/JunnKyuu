@@ -39,4 +39,4 @@ public:
 
 |Solved.ac|OPGC|
 |-----|---|
-|[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junnkyuu22)](https://solved.ac/junnkyuu22)|<a href="https://opgc.me/#/users/junnkyuu" target="_blank"><img src="https://api.opgc.me/githubs/users/junnkyuu/tag/?theme=transparent" /></a>|
+|[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junnkyuu22)](https://solved.ac/junnkyuu22)|<a href="https://opgc.me/#/users/junnkyuu" target="_blank"><img src="https://api.opgc.me/githubs/users/junnkyuu/tag/?theme=prism" /></a>|
