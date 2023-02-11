@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=160&section=header&text=Hi%20there!%20I'm%20Jun👋&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlign=30&textBg=true)
 
 🌱 I’m currently doing
-- C++ algorithm
+- C++, Swift algorithm
 - Studying Swift
 <br>
 
@@ -29,7 +29,7 @@ public:
 class Language {
 public:
   char learned[3][5] = {"C", "C++", "Swift"};
-  string canUse = "C++";
+  char canUse[2][5] = {"C++", "Swift"};
 };
 ```
 ---
