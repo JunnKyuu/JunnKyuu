@@ -11,7 +11,7 @@
 |-----|---|---|
 |2016.03 ~ 2022.02|Student|Mechanical Engineering⚙️　 [Kookmin University](https://www.kookmin.ac.kr/comm/html/user/temp_page.do)|
 |2022.03 ~ 2023.01|Student|Computer Engineering💻　 [Myongji University](https://www.mju.ac.kr/sites/mjukr/intro/intro.html)|
-|2023.01 ~ Today|Student|Convergence Software💻　 [Myongji University](https://www.mju.ac.kr/sites/mjukr/intro/intro.html)|
+|2023.01 ~ Today|Student|Application Software💻　 [Myongji University](https://www.mju.ac.kr/sites/mjukr/intro/intro.html)|
 ---
 
 🪪About me
