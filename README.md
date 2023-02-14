@@ -14,23 +14,18 @@
 |2023.01 ~ Today|Student|Application Software💻　 [Myongji University](https://www.mju.ac.kr/sites/mjukr/intro/intro.html)|
 ---
 
-📝About me
+📝About Jun
 ```
 class Jun {
-public:
-  string name = "Lee Jun Kyu";
-  string major = "application software";
-  string goal = "ios developer";
-  string motto = "slow and steady";
-  char persue[2][20] = {"improvements", "share with others"}; 
-  char hobby[3][20] = {"algorithm", "football", "netflix"};
-};
-
-class Language {
-public:
-  char learned[3][5] = {"C", "C++", "Swift"};
-  char canUse[2][5] = {"C++", "Swift"};
-};
+  let name: String = "Lee Jun Kyu"
+  var major: String = "application software"
+  var goal: String = "iOS developer"
+  var motto: String = "slow and steady"
+  var persue: [String] = ["improvements", "share with others"]
+  var hobby: [String] = ["algorithm", "football", "netflix"]
+  var learned: [String] = ["C", "C++", "Swift"]
+  var canUse: [String] = ["C++", "Swift"]
+}
 ```
 ---
 |Github|Languages|
