@@ -19,7 +19,7 @@
 class Jun {
   let name: String = "Lee Jun Kyu"
   var major: String = "application software"
-  var goal: String = "iOS developer"
+  var goal: String = "iOS developer🍎"
   var motto: String = "slow and steady"
   var persue: [String] = ["improvements", "share with others"]
   var hobby: [String] = ["algorithm", "football", "netflix"]
