@@ -2,7 +2,7 @@
 
 🌱 I’m currently doing
 - Swift algorithm
-- Studying Swift, iOS
+- Studying Swift, SwiftUI, UIKit
 <br>
 
 🔭History
