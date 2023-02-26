@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=160&section=header&text=Hi%20there!%20I'm%20Jun👋&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlign=30&textBg=true)
 
-🌱 I’m currently doing
+🍎 I’m currently doing
 - Swift algorithm
 - Studying Swift, SwiftUI, UIKit
 <br>
