@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&height=120&section=header&text=안녕하세요👋&fontSize=30&fontColor=FDF5E6&animation=twinkling&fontAlign=10&fontAlignY=80&)
 
-### 🍎Apple 기기를 좋아하고, iOS에 관심이 있는 이준규입니다.
+### 🍎iOS에 관심이 있어 관련 공부를 하는 이준규입니다.
 
 - Email : [junnkyu22@gmail.com](junnkyu22@gmail.com)
 - GitHub : [https://github.com/JunnKyuu](https://github.com/JunnKyuu)
