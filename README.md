@@ -2,8 +2,6 @@
 
 ### 🍎Apple 기기를 좋아하고, iOS에 관심이 있는 이준규입니다.
 
-<br>
-
 - Email : [junnkyu22@gmail.com](junnkyu22@gmail.com)
 - GitHub : [https://github.com/JunnKyuu](https://github.com/JunnKyuu)
 - Velog : [https://velog.io/@junnkyuu](https://velog.io/@junnkyuu)
