@@ -1,8 +1,21 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=160&section=header&text=Hi%20there!%20I'm%20Jun👋&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlign=30&textBg=true)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&height=100&section=header&text=안녕하세요👋&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlign=16&fontAlignY=80)
+
+### 🍎Apple 기기를 좋아하고, iOS에 관심이 있는 이준규입니다.
+
+<br>
+
+- Email : [junnkyu22@gmail.com](junnkyu22@gmail.com)
+- GitHub : [https://github.com/JunnKyuu](https://github.com/JunnKyuu)
+- Velog : [https://velog.io/@junnkyuu](https://velog.io/@junnkyuu)
+- LinkedIn : [https://www.linkedin.com/in/jun-kyu-lee-656025266/](https://www.linkedin.com/in/jun-kyu-lee-656025266/)
+
+---
+<br>
 
 🌱 I’m currently doing
-- Swift algorithm
-- Studying Swift, SwiftUI, UIKit
+- Swift 알고리즘 풀고 있습니다.
+- Swift, SwiftUI, UIKit 공부 후 [Velog](https://velog.io/@junnkyuu)에 정리하고 있습니다.
+
 <br>
 
 🔭History
