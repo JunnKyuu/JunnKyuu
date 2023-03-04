@@ -11,6 +11,7 @@
 <br>
 
 🌱 I’m currently doing
+- html을 공부하고 있습니다.
 - Swift 알고리즘 풀고 있습니다.
 - Swift, SwiftUI, UIKit 공부 후 [Velog](https://velog.io/@junnkyuu)에 정리하고 있습니다.
 
