@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&height=120&section=header&text=안녕하세요👋&fontSize=30&fontColor=FDF5E6&animation=twinkling&fontAlign=10&fontAlignY=80&)
 
-### 🍎 iOS 공부를 하는 이준규입니다.
+### 🍎 iOS를 좋아하는 이준규입니다.
 
 - Email : [junnkyu22@gmail.com](junnkyu22@gmail.com)
 - GitHub : [https://github.com/JunnKyuu](https://github.com/JunnKyuu)
@@ -11,8 +11,7 @@
 <br>
 
 🌱 I’m currently doing
-- html을 공부하고 있습니다.
-- Swift 알고리즘 풀고 있습니다.
+- Java, html을 공부하고 있습니다.
 - Swift, SwiftUI, UIKit 공부 후 [Velog](https://velog.io/@junnkyuu)에 정리하고 있습니다.
 
 <br>
