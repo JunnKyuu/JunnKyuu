@@ -11,7 +11,7 @@
 <br>
 
 🌱 I’m currently doing
-- Java, html, DBMS를 공부하고 있습니다.
+- Java, html를 공부하고 있습니다.
 - Swift, SwiftUI, UIKit 공부 후 [Velog](https://velog.io/@junnkyuu)에 정리하고 있습니다.
 
 <br>
