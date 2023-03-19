@@ -5,7 +5,6 @@
 - Email : [junnkyu22@gmail.com](junnkyu22@gmail.com)
 - GitHub : [https://github.com/JunnKyuu](https://github.com/JunnKyuu)
 - Velog : [https://velog.io/@junnkyuu](https://velog.io/@junnkyuu)
-- LinkedIn : [https://www.linkedin.com/in/jun-kyu-lee-656025266/](https://www.linkedin.com/in/jun-kyu-lee-656025266/)
 
 ---
 <br>
