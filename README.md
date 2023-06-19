@@ -27,13 +27,13 @@
 ```
 class Jun {
   let name: String = "Lee Jun Kyu"
-  var major: String = "application software"
-  var goal: String = "FE"
+  var major: String = "convergence software"
+  var goal: String = "iOS, frontend"
   var motto: String = "slow and steady"
   var persue: [String] = ["improvements", "share with others"]
   var hobby: [String] = ["algorithm", "football", "netflix"]
-  var learned: [String] = ["C", "C++", "Swift"]
-  var canUse: [String] = ["C++", "Swift"]
+  var learned: [String] = ["C", "C++", "Swift", "Java", "Javascript"]
+  var canUse: [String] = ["Swift", "Javascript", "Java"]
 }
 ```
 ---
