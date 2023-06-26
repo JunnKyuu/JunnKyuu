@@ -10,7 +10,7 @@
 <br>
 
 🌱 I’m currently doing
-- React, React Native를 공부하고 있습니다.
+- React를 공부하고 있습니다.
 
 <br>
 
