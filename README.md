@@ -3,8 +3,8 @@
 ### Jun
 
 - Email : [junnkyu22@gmail.com](junnkyu22@gmail.com)
-- GitHub : [https://github.com/JunnKyuu](https://github.com/JunnKyuu)
 - Velog : [https://velog.io/@junnkyuu](https://velog.io/@junnkyuu)
+- instagram : [https://instagram.com/ddoruruk_jun](https://instagram.com/ddoruruk_jun)
 
 ---
 <br>
