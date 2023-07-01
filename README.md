@@ -10,7 +10,7 @@
 <br>
 
 🌱 I’m currently doing
-- React를 공부하고 [velog](https://velog.io/@junnkyuu)에 정리하고 있습니다.
+- React를 공부하고 있습니다.
 
 <br>
 
