@@ -4,7 +4,6 @@
 
 - Email : [junnkyu22@gmail.com](junnkyu22@gmail.com)
 - Velog : [https://velog.io/@junnkyuu](https://velog.io/@junnkyuu)
-- instagram : [https://instagram.com/ddoruruk_jun](https://instagram.com/ddoruruk_jun)
 
 ---
 <br>
