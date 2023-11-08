@@ -9,7 +9,7 @@
 <br>
 
 🌱 I’m currently doing
--  Java, Flutter, DB를 공부하고 있습니다.
+-  Java, DB를 공부하고 있습니다.
 
 <br>
 
