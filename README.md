@@ -9,7 +9,7 @@
 <br>
 
 🌱 I’m currently doing
--  iOS를 공부하고 있습니다.
+-  iOS를 공부하고 velog에 정리하고 있습니다.
 
 <br>
 
