@@ -31,12 +31,11 @@
 class Jun {
   let name: String = "Lee Jun Kyu"
   var major: String = "Convergence Software"
-  var goal: String = "iOS, FrontEnd"
+  var goal: [String] = ["mobile developer", "frontend developer"]
   var motto: String = "Slow and steady"
   var persue: [String] = ["improvements", "share with others"]
   var hobby: [String] = ["algorithm", "football", "netflix"]
-  var learned: [String] = ["C", "C++", "Swift", "Java", "Javascript", "HTML", "CSS", "MySQL", "Oracle"]
-  var canUse: [String] = ["Swift", "Javascript", "Java", "MySQL"]
+  var canUse: [String] = ["React", "SwiftUI", "Flutter"]
 }
 ```
 ---
