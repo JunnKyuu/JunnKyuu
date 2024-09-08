@@ -33,7 +33,7 @@ class Jun {
   var motto: String = "Slow and steady"
   var persue: [String] = ["improvements", "share with others"]
   var hobby: [String] = ["algorithm", "football", "netflix"]
-  var canUse: [String] = ["React", "SwiftUI", "Flutter"]
+  var canUse: [String] = ["React", "SwiftUI"]
 }
 ```
 ---
