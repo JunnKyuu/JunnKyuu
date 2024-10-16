@@ -33,7 +33,7 @@ class Jun {
   var goal: [String] = ["iOS developer"]
   var motto: String = "Slow and steady"
   var persue: [String] = ["improvements", "share with others"]
-  var hobby: [String] = ["algorithm", "football", "netflix"]
+  var hobby: [String] = ["football", "netflix"]
   var canUse: [String] = ["React", "SwiftUI"]
 }
 ```
