@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20I%27m%20JunKyu%20Lee%20👋&fontSize=30&fontColor=FDF5E6&animation=twinkling&fontAlign=25&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:1E90FF&height=180&section=header&text=Hi%20I%27m%20JunKyu%20Lee%20👋&fontSize=30&fontColor=FDF5E6&animation=twinkling&fontAlign=25&fontAlignY=40)
 
 ### 📌 Contact
 
