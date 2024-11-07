@@ -30,7 +30,7 @@
   - [<img src="https://img.shields.io/badge/TomyongJi-181717?style=for-the-badge&logo=Github&logoColor=white">](https://github.com/JunnKyuu/ToMyongJi-front)
     - 투명한 명지의 줄임말로, 학생회비 사용 내역을 투명하고 간편하게 조회할 수 있는 서비스
     - [Blog - TomyongJi](https://velog.io/@junnkyuu/SW%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9B%84%EA%B8%B0)
-  - [<img src="https://img.shields.io/badge/Perform-181717?style=for-the-badge&logo=Github&logoColor=white">]([https://github.com/JunnKyuu/ToMyongJi-front](https://github.com/JunnKyuu/perform-front))
+  - [<img src="https://img.shields.io/badge/Perform-181717?style=for-the-badge&logo=Github&logoColor=white">](https://github.com/JunnKyuu/perform-front)
     - For your perfect form, 헬스자세 피드백 서비스
     - [Blog - Perform](https://velog.io/@junnkyuu/%EB%A9%8B%EC%9F%81%EC%9D%B4%EC%82%AC%EC%9E%90%EC%B2%98%EB%9F%BC-%ED%95%B4%EC%BB%A4%ED%86%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9B%84%EA%B8%B0)
 
