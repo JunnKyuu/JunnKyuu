@@ -15,12 +15,12 @@
 <br>
 
 ### 🍎 App(iOS)
-<img src="https://img.shields.io/badge/Xcode-2379F4?style=for-the-badge&logo=Xcode&logoColor=white"><img src="https://img.shields.io/badge/Swift-E60012?style=for-the-badge&logo=Swift&logoColor=white"><img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=Swift&logoColor=white"><img src="https://img.shields.io/badge/combine-FF61F6?style=for-the-badge&logo=Swift&logoColor=white"><img src="https://img.shields.io/badge/Alamofire-EF2D5E?style=for-the-badge&logo=Swift&logoColor=white">
+<img src="https://img.shields.io/badge/Xcode-2379F4?style=for-the-badge&logo=Xcode&logoColor=white"><img src="https://img.shields.io/badge/Swift-E60012?style=for-the-badge&logo=Swift&logoColor=white"><img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=Swift&logoColor=white"><img src="https://img.shields.io/badge/combine-FF61F6?style=for-the-badge&logo=Swift&logoColor=white"><img src="https://img.shields.io/badge/Alamofire-EF2D5E?style=for-the-badge&logo=Swift&logoColor=white"><img src="https://img.shields.io/badge/fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white">
 
 <br>
 
 ### 🖥️ Web
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"><img src="https://img.shields.io/badge/zustand-FF3366?style=for-the-badge&logo=react&logoColor=white"><img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"><img src="https://img.shields.io/badge/zustand-FF3366?style=for-the-badge&logo=react&logoColor=white"><img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"><img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 
 
 <br>
