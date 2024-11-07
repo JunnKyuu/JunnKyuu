@@ -1,22 +1,43 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&height=120&section=header&text=안녕하세요👋&fontSize=30&fontColor=FDF5E6&animation=twinkling&fontAlign=10&fontAlignY=80&)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20I%27m%20JunKyu%20Lee%20👋&fontSize=30&fontColor=FDF5E6&animation=twinkling&fontAlign=25&fontAlignY=40)
 
-### Jun
+### 📌 Contact
 
+- iMessage : [wnsrb0407@hanmail.net](wnsrb0407@hanmail.net)
 - Email : [junnkyu22@gmail.com](junnkyu22@gmail.com)
 - Velog : [https://velog.io/@junnkyuu](https://velog.io/@junnkyuu)
 
----
 <br>
 
-🌱 I’m currently doing
-- 🦁 명지대(인문) 멋쟁이사자처럼 12기 운영진 활동을 하고 있습니다.
-- 🍎 iOS를 공부하고 있습니다.
-- 🖌️ React를 공부하고 있습니다.
-- 🖥️ 알고리즘과 코딩테스트 문제를 공부하고 있습니다.
+### 🌱 About Jun
+- 🦁 Frontend staff at likelion_mju 12th
+- ✏️ Major at convergence software
 
 <br>
 
-🔭History
+### 🍎 App(iOS)
+<img src="https://img.shields.io/badge/Xcode-2379F4?style=for-the-badge&logo=Xcode&logoColor=white"><img src="https://img.shields.io/badge/Swift-E60012?style=for-the-badge&logo=Swift&logoColor=white"><img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=Swift&logoColor=white"><img src="https://img.shields.io/badge/combine-FF61F6?style=for-the-badge&logo=Swift&logoColor=white"><img src="https://img.shields.io/badge/Alamofire-EF2D5E?style=for-the-badge&logo=Swift&logoColor=white">
+
+<br>
+
+### 🖥️ Web
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"><img src="https://img.shields.io/badge/zustand-FF3366?style=for-the-badge&logo=react&logoColor=white"><img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+
+
+<br>
+
+### 📁 project
+- Web
+  - [<img src="https://img.shields.io/badge/TomyongJi-181717?style=for-the-badge&logo=Github&logoColor=white">](https://github.com/JunnKyuu/ToMyongJi-front)
+    - 투명한 명지의 줄임말로, 학생회비 사용 내역을 투명하고 간편하게 조회할 수 있는 서비스
+    - [블로그 정리글](https://velog.io/@junnkyuu/SW%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9B%84%EA%B8%B0)
+  - [<img src="https://img.shields.io/badge/Perform-181717?style=for-the-badge&logo=Github&logoColor=white">]([https://github.com/JunnKyuu/ToMyongJi-front](https://github.com/JunnKyuu/perform-front))
+    - For your perfect form, 헬스자세 피드백 서비스
+    - [블로그 정리글](https://velog.io/@junnkyuu/%EB%A9%8B%EC%9F%81%EC%9D%B4%EC%82%AC%EC%9E%90%EC%B2%98%EB%9F%BC-%ED%95%B4%EC%BB%A4%ED%86%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9B%84%EA%B8%B0)
+
+
+<br>
+
+### 🔭 History
 
 |Date|Type|Organization|
 |-----|---|---|
@@ -24,24 +45,3 @@
 |2022.03 ~ 2023.01|Student|Computer Engineering💻　 [Myongji University](https://www.mju.ac.kr/sites/mjukr/intro/intro.html)|
 |2023.01 ~ Today|Student|Convergence Software💻　 [Myongji University](https://www.mju.ac.kr/sites/mjukr/intro/intro.html)|
 ---
-
-📝About Jun
-```
-class Jun {
-  let name: String = "Lee Jun Kyu"
-  var major: String = "Convergence Software"
-  var goal: [String] = ["iOS developer"]
-  var motto: String = "Slow and steady"
-  var persue: [String] = ["improvements", "share with others"]
-  var hobby: [String] = ["football", "netflix"]
-  var canUse: [String] = ["SwiftUI", "React"]
-}
-```
----
-|Github|Languages|
-|-----|---|
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunnKyuu&show_icons=true&theme=transparent)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunnKyuu&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)|
-
-|Solved.ac|OPGC|
-|-----|---|
-|[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junnkyuu22)](https://solved.ac/junnkyuu22)|<a href="https://opgc.me/#/users/junnkyuu" target="_blank"><img src="https://api.opgc.me/githubs/users/junnkyuu/tag/?theme=prism" /></a>|
