@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:1E90FF&height=180&section=header&text=Hi%20I%27m%20JunKyu%20Lee%20👋&fontSize=30&fontColor=FDF5E6&animation=twinkling&fontAlign=25&fontAlignY=40)
 
+### 안녕하세요, 성실함을 기반으로 꾸준히 나아가는 이준규입니다 :)
+
 ### 📌 Contact
 
 - iMessage : [wnsrb0407@hanmail.net](wnsrb0407@hanmail.net)
@@ -9,8 +11,8 @@
 <br>
 
 ### 🌱 About Jun
-- 🦁 Frontend staff at likelion_mju 12th
-- ✏️ Major in convergence software
+- 🦁 멋쟁이사자처럼 명지대(인문) 12기 프론트엔드 운영진
+- ✏️ 응용소프트웨어 전공
 
 <br>
 
