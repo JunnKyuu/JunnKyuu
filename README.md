@@ -10,7 +10,7 @@
 
 ### 🌱 About Jun
 - 🦁 Frontend staff at likelion_mju 12th
-- ✏️ Major at convergence software
+- ✏️ Major in convergence software
 
 <br>
 
