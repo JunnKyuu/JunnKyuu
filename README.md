@@ -10,12 +10,6 @@
 
 <br>
 
-### 🌱 About Jun
-- 🦁 멋쟁이사자처럼 명지대(인문) 12기 프론트엔드 운영진
-- ✏️ 응용소프트웨어 전공
-
-<br>
-
 ### 🍎 App(iOS)
 <img src="https://img.shields.io/badge/Xcode-2379F4?style=for-the-badge&logo=Xcode&logoColor=white"><img src="https://img.shields.io/badge/Swift-E60012?style=for-the-badge&logo=Swift&logoColor=white"><img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=Swift&logoColor=white"><img src="https://img.shields.io/badge/combine-FF61F6?style=for-the-badge&logo=Swift&logoColor=white"><img src="https://img.shields.io/badge/Alamofire-EF2D5E?style=for-the-badge&logo=Swift&logoColor=white"><img src="https://img.shields.io/badge/fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white">
 
@@ -45,7 +39,8 @@
 
 |Date|Type|Organization|
 |-----|---|---|
-|2016.03 ~ 2022.02|Student|Mechanical Engineering⚙️　 [Kookmin University](https://www.kookmin.ac.kr/comm/html/user/temp_page.do)|
-|2022.03 ~ 2023.01|Student|Computer Engineering💻　 [Myongji University](https://www.mju.ac.kr/sites/mjukr/intro/intro.html)|
-|2023.01 ~ Today|Student|Convergence Software💻　 [Myongji University](https://www.mju.ac.kr/sites/mjukr/intro/intro.html)|
+|2016.03 ~ 2022.02|Student|Mechanical Engineering ⚙️　 [Kookmin University](https://www.kookmin.ac.kr/comm/html/user/temp_page.do)|
+|2022.03 ~ 2023.01|Student|Computer Engineering 💻　 [Myongji University](https://www.mju.ac.kr/sites/mjukr/intro/intro.html)|
+|2023.01 ~ Today|Student|Convergence Software 💻　 [Myongji University](https://www.mju.ac.kr/sites/mjukr/intro/intro.html)|
+|2024.01 ~ Today|Frontend Staff|LikeLion X MJU(Seoul) 🦁　 [LikeLion X MJU(Seoul)](https://www.instagram.com/likelion_mju/)|
 ---
