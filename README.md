@@ -11,7 +11,7 @@
 <br>
 
 ### 🍎 App(iOS)
-<img src="https://img.shields.io/badge/Xcode-2379F4?style=for-the-badge&logo=Xcode&logoColor=white"><img src="https://img.shields.io/badge/Swift-E60012?style=for-the-badge&logo=Swift&logoColor=white"><img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=Swift&logoColor=white"><img src="https://img.shields.io/badge/combine-FF61F6?style=for-the-badge&logo=Swift&logoColor=white"><img src="https://img.shields.io/badge/Alamofire-EF2D5E?style=for-the-badge&logo=Swift&logoColor=white"><img src="https://img.shields.io/badge/fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white">
+<img src="https://img.shields.io/badge/Xcode-2379F4?style=for-the-badge&logo=Xcode&logoColor=white"><img src="https://img.shields.io/badge/Swift-E60012?style=for-the-badge&logo=Swift&logoColor=white"><img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=Swift&logoColor=white"><img src="https://img.shields.io/badge/combine-FF61F6?style=for-the-badge&logo=Swift&logoColor=white"><img src="https://img.shields.io/badge/Alamofire-EF2D5E?style=for-the-badge&logo=Swift&logoColor=white"><img src="https://img.shields.io/badge/fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white"><img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white">
 
 <br>
 
