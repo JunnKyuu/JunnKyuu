@@ -38,7 +38,7 @@
 
 #### App(iOS)
 
-[<img src="https://img.shields.io/badge/TomyongJi(iOS)-181717?style=for-the-badge&logo=Github&logoColor=white">]()
+[<img src="https://img.shields.io/badge/TomyongJi(iOS)-181717?style=for-the-badge&logo=Github&logoColor=white">](https://github.com/JunnKyuu/ToMyongJi-iOS)
 - 투명지 iOS 서비스(진행중)
 - [Blog - ToMyongJi(iOS)](https://junnkyuu.notion.site/14ec39f2249a80f888f6e01041c45964?v=7d3b57cef6e1467bbedbd158296a8dcb)
 
