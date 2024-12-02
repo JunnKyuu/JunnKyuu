@@ -23,7 +23,7 @@
 
 ### 📁 project
 
-#### Web
+#### 🖥️ Web
 [<img src="https://img.shields.io/badge/TomyongJi(Web)-181717?style=for-the-badge&logo=Github&logoColor=white">](https://github.com/JunnKyuu/ToMyongJi-front)
   - 투명한 명지의 줄임말로, 학생회비 사용 내역을 투명하고 간편하게 조회할 수 있는 웹 서비스
   - [투명지 URL](https://www.tomyongji.com/)
@@ -36,11 +36,11 @@
 
 <br>
 
-#### App(iOS)
+#### 🍎 App(iOS)
 
 [<img src="https://img.shields.io/badge/TomyongJi(iOS)-181717?style=for-the-badge&logo=Github&logoColor=white">](https://github.com/JunnKyuu/ToMyongJi-iOS)
 - 투명지 iOS 서비스(진행중)
-- [Blog - ToMyongJi(iOS)](https://junnkyuu.notion.site/14ec39f2249a80f888f6e01041c45964?v=7d3b57cef6e1467bbedbd158296a8dcb)
+- [ToMyongJi(iOS) 작업 일지](https://junnkyuu.notion.site/14ec39f2249a80f888f6e01041c45964?v=7d3b57cef6e1467bbedbd158296a8dcb)
 
 
 <br>
