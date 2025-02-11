@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:1E90FF&height=180&section=header&text=Hi%20I%27m%20JunKyu%20Lee%20👋&fontSize=30&fontColor=FDF5E6&animation=twinkling&fontAlign=25&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:1E90FF&height=180&section=header&text=Jun&fontSize=50&fontColor=FDF5E6&animation=twinkling&fontAlign=20&fontAlignY=40)
 
 ### 📌 Contact
 
@@ -22,13 +22,15 @@
 ### 📁 project
 
 #### 🖥️ Web
-[<img src="https://img.shields.io/badge/TomyongJi(Web)-181717?style=for-the-badge&logo=Github&logoColor=white">](https://github.com/JunnKyuu/ToMyongJi-front)
+**투명지**
   - 투명한 명지의 줄임말로, 학생회비 사용 내역을 투명하고 간편하게 조회할 수 있는 웹 서비스
+  - [소스코드](https://github.com/JunnKyuu/ToMyongJi-front)
   - [투명지 URL](https://www.tomyongji.com/)
   - [Blog - TomyongJi(Web)](https://velog.io/@junnkyuu/SW%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9B%84%EA%B8%B0)
 
-[<img src="https://img.shields.io/badge/Perform-181717?style=for-the-badge&logo=Github&logoColor=white">](https://github.com/JunnKyuu/perform-front)
+**Perform**
   - For your perfect form, 헬스자세 피드백 서비스
+  - [소스코드](https://github.com/JunnKyuu/perform-front)
   - [Perform URL](https://perfect-form-chi.vercel.app/)
   - [Blog - Perform](https://velog.io/@junnkyuu/%EB%A9%8B%EC%9F%81%EC%9D%B4%EC%82%AC%EC%9E%90%EC%B2%98%EB%9F%BC-%ED%95%B4%EC%BB%A4%ED%86%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9B%84%EA%B8%B0)
 
@@ -36,8 +38,9 @@
 
 #### 🍎 App(iOS)
 
-[<img src="https://img.shields.io/badge/TomyongJi(iOS)-181717?style=for-the-badge&logo=Github&logoColor=white">](https://github.com/JunnKyuu/ToMyongJi-iOS)
+**투명지**
 - 투명지 iOS 서비스(진행중)
+- [소스코드](https://github.com/JunnKyuu/ToMyongJi-iOS)
 - [ToMyongJi(iOS) 작업 일지](https://junnkyuu.notion.site/tomtongji-ios?v=7d3b57cef6e1467bbedbd158296a8dcb)
 
 
