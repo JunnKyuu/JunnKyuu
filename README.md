@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:1E90FF&height=180&section=header&text=Jun&fontSize=50&fontColor=FDF5E6&animation=twinkling&fontAlign=20&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:1E90FF&height=180&section=header&text=Jun&fontSize=50&fontColor=FDF5E6&animation=twinkling&fontAlign=10&fontAlignY=40)
 
 ### 📌 Contact
 
