@@ -1,8 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:1E90FF&height=180&section=header&text=Jun&fontSize=50&fontColor=FDF5E6&animation=twinkling&fontAlign=10&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:1E90FF&height=180&section=header&text=🍎%20%20%20%20%20%20Jun&fontSize=50&fontColor=FDF5E6&animation=twinkling&fontAlign=10&fontAlignY=40)
 
 ### 📌 Contact
 
-- iMessage : [wnsrb0407@hanmail.net](wnsrb0407@hanmail.net)
 - Email : [junnkyu22@gmail.com](junnkyu22@gmail.com)
 - Velog : [https://velog.io/@junnkyuu](https://velog.io/@junnkyuu)
 
