@@ -20,7 +20,17 @@
 
 ### 📁 project
 
+#### 🍎 App(iOS)
+
+**투명지**
+- 투명지 iOS 서비스(진행중)
+- [소스코드](https://github.com/JunnKyuu/ToMyongJi-iOS)
+- [ToMyongJi(iOS) 작업 일지](https://junnkyuu.notion.site/tomtongji-ios?v=7d3b57cef6e1467bbedbd158296a8dcb)
+
+<br>
+
 #### 🖥️ Web
+
 **투명지**
   - 투명한 명지의 줄임말로, 학생회비 사용 내역을 투명하고 간편하게 조회할 수 있는 웹 서비스
   - [소스코드](https://github.com/JunnKyuu/ToMyongJi-front)
@@ -32,16 +42,6 @@
   - [소스코드](https://github.com/JunnKyuu/perform-front)
   - [Perform URL](https://perfect-form-chi.vercel.app/)
   - [Blog - Perform](https://velog.io/@junnkyuu/%EB%A9%8B%EC%9F%81%EC%9D%B4%EC%82%AC%EC%9E%90%EC%B2%98%EB%9F%BC-%ED%95%B4%EC%BB%A4%ED%86%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9B%84%EA%B8%B0)
-
-<br>
-
-#### 🍎 App(iOS)
-
-**투명지**
-- 투명지 iOS 서비스(진행중)
-- [소스코드](https://github.com/JunnKyuu/ToMyongJi-iOS)
-- [ToMyongJi(iOS) 작업 일지](https://junnkyuu.notion.site/tomtongji-ios?v=7d3b57cef6e1467bbedbd158296a8dcb)
-
 
 <br>
 
