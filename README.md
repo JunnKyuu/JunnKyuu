@@ -3,6 +3,7 @@
 ### 📌 Contact
 
 - Email : [junnkyu22@gmail.com](junnkyu22@gmail.com)
+- LinkedIn : [https://www.linkedin.com/in/junnkyuu/](https://www.linkedin.com/in/junnkyuu/)
 - Velog : [https://velog.io/@junnkyuu](https://velog.io/@junnkyuu)
 
 <br>
