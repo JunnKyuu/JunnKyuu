@@ -8,6 +8,11 @@
 
 <br>
 
+### ✏️ Velog 최신글
+- [테스트 코드가 필수인 이유: 앱스토어도 통과한 치명적 버그를 잡다!](https://velog.io/@junnkyuu/%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C%EA%B0%80-%ED%95%84%EC%88%98%EC%9D%B8-%EC%9D%B4%EC%9C%A0-%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4%EB%8F%84-%ED%86%B5%EA%B3%BC%ED%95%9C-%EC%B9%98%EB%AA%85%EC%A0%81-%EB%B2%84%EA%B7%B8%EB%A5%BC-%EC%9E%A1%EB%8B%A4)
+
+<br>
+
 ### 🍎 App(iOS)
 <img src="https://img.shields.io/badge/Xcode-2379F4?style=for-the-badge&logo=Xcode&logoColor=white"><img src="https://img.shields.io/badge/XCTest-2379F4?style=for-the-badge&logo=Xcode&logoColor=white"><img src="https://img.shields.io/badge/SPM-2379F4?style=for-the-badge&logo=Xcode&logoColor=white"><img src="https://img.shields.io/badge/Swift-E60012?style=for-the-badge&logo=Swift&logoColor=white"><img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=Swift&logoColor=white"><img src="https://img.shields.io/badge/combine-FF61F6?style=for-the-badge&logo=Swift&logoColor=white"><img src="https://img.shields.io/badge/Alamofire-EF2D5E?style=for-the-badge&logo=Swift&logoColor=white"><img src="https://img.shields.io/badge/Tuist-5A2EF4?style=for-the-badge&logo=Swift&logoColor=white"><img src="https://img.shields.io/badge/fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white"><img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=GithubActions&logoColor=white"><img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white">
 
