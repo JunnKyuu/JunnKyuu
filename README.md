@@ -9,6 +9,7 @@
 <br>
 
 ### ✏️ Velog 최신글
+- [iOS 배포 자동화, 왜 도입했을까? 그리고 겪었던 시행착오](https://velog.io/@junnkyuu/iOS-%EB%B0%B0%ED%8F%AC-%EC%9E%90%EB%8F%99%ED%99%94-%EC%99%9C-%EB%8F%84%EC%9E%85%ED%96%88%EC%9D%84%EA%B9%8C-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EA%B2%AA%EC%97%88%EB%8D%98-%EC%8B%9C%ED%96%89%EC%B0%A9%EC%98%A4)
 - [테스트 코드가 필수인 이유: AppStore도 통과한 치명적 버그를 잡다!](https://velog.io/@junnkyuu/%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C%EA%B0%80-%ED%95%84%EC%88%98%EC%9D%B8-%EC%9D%B4%EC%9C%A0-%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4%EB%8F%84-%ED%86%B5%EA%B3%BC%ED%95%9C-%EC%B9%98%EB%AA%85%EC%A0%81-%EB%B2%84%EA%B7%B8%EB%A5%BC-%EC%9E%A1%EB%8B%A4)
 
 <br>
