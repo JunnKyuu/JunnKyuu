@@ -64,7 +64,6 @@
 |Date|Type|Organization|
 |-----|---|---|
 |2016.03 ~ 2022.02|Student|Mechanical Engineering ⚙️　 [Kookmin University](https://www.kookmin.ac.kr/comm/html/user/temp_page.do)|
-|2022.03 ~ 2023.01|Student|Computer Engineering 💻　 [Myongji University](https://www.mju.ac.kr/sites/mjukr/intro/intro.html)|
-|2023.01 ~ Today|Student|Convergence Software 💻　 [Myongji University](https://www.mju.ac.kr/sites/mjukr/intro/intro.html)|
+|2022.03 ~ Today|Student|Convergence Software 💻　 [Myongji University](https://www.mju.ac.kr/sites/mjukr/intro/intro.html)|
 |2024.01 ~ 2025.01|Frontend Staff|LikeLion X MJU(Seoul) 🦁　 [LikeLion X MJU(Seoul)](https://www.instagram.com/likelion_mju/)|
 ---
