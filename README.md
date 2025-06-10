@@ -40,7 +40,7 @@
   - 수원삼성 팬 명칭인 Frente Tricolor에서 Frente를 사용했고, 사기 위험 없이 실명인증 바탕으로 중고 거래할 수 있는 서비스
   - [사기 증가에 관한 수원삼성 커뮤니티 공지사항](https://bluewings1995.com/free/8273879)
   - [소스코드](https://github.com/frente-market/frente-iOS)
-  - [FRENTE 작업 일지]([https://junnkyuu.notion.site/tomtongji-ios?v=7d3b57cef6e1467bbedbd158296a8dcb](https://junnkyuu.notion.site/206c39f2249a806ebf02dff104135f02?v=206c39f2249a8170acbb000c0599aee9))
+  - [FRENTE 작업 일지](https://junnkyuu.notion.site/206c39f2249a806ebf02dff104135f02?v=206c39f2249a8170acbb000c0599aee9&pvs=74)
 
 <br>
 
