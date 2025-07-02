@@ -9,8 +9,8 @@
 <br>
 
 ### ✏️ Velog 최신글
+- [Fastlane + Github Actions release lane 구축 및 안정화](https://velog.io/@junnkyuu/Github-actions-release-lane-%EA%B5%AC%EC%B6%95-%EB%B0%8F-%EC%95%88%EC%A0%95%ED%99%94)
 - [약 3개월의 iOS CI/CD 파이프라인 구축 회고록: Tuist, Fastlane, GitHub Actions](https://velog.io/@junnkyuu/%EC%95%BD-3%EA%B0%9C%EC%9B%94%EC%9D%98-iOS-CICD-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EA%B5%AC%EC%B6%95-%ED%9A%8C%EA%B3%A0%EB%A1%9D-Tuist-Fastlane-GitHub-Actions)
-- [WWDC 2025에 드디어!!](https://velog.io/@junnkyuu/WWDC-2025%EC%97%90-%EB%93%9C%EB%94%94%EC%96%B4)
 
 <br>
 
@@ -35,12 +35,6 @@
   - [App Store](https://apps.apple.com/kr/app/%ED%88%AC%EB%AA%85%EC%A7%80/id6743519294)
   - [소스코드](https://github.com/JunnKyuu/ToMyongJi-iOS)
   - [ToMyongJi(iOS) 작업 일지](https://junnkyuu.notion.site/14ec39f2249a80f888f6e01041c45964?v=7d3b57cef6e1467bbedbd158296a8dcb)
-
-**FRENTE(서비스 개발중)**
-  - 수원삼성 팬 명칭인 Frente Tricolor에서 Frente를 사용했고, 사기 위험 없이 실명인증 바탕으로 중고 거래할 수 있는 서비스
-  - [사기 증가에 관한 수원삼성 커뮤니티 공지사항](https://bluewings1995.com/free/8273879)
-  - [소스코드](https://github.com/frente-market/frente-iOS)
-  - [FRENTE 작업 일지](https://junnkyuu.notion.site/206c39f2249a806ebf02dff104135f02?v=206c39f2249a8170acbb000c0599aee9)
 
 <br>
 
