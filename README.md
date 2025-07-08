@@ -9,7 +9,7 @@
 <br>
 
 ### ✏️ Velog 최신글
-- [Combine과 ViewModel, [weak self]를 깜빡하면 메모리 누수로 메모리 누수로 앱터짐❗️](https://velog.io/@junnkyuu/Combine%EA%B3%BC-ViewModel-weak-self%EB%A5%BC-%EA%B9%9C%EB%B9%A1%ED%95%98%EB%A9%B4-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98%EB%A1%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98%EB%A1%9C-%EC%95%B1%ED%84%B0%EC%A7%90)
+- [Combine과 ViewModel, [weak self]를 깜빡하면 메모리 누수로 앱터짐❗️](https://velog.io/@junnkyuu/Combine%EA%B3%BC-ViewModel-weak-self%EB%A5%BC-%EA%B9%9C%EB%B9%A1%ED%95%98%EB%A9%B4-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98%EB%A1%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98%EB%A1%9C-%EC%95%B1%ED%84%B0%EC%A7%90)
 - [Fastlane + Github Actions release lane 구축 및 안정화](https://velog.io/@junnkyuu/Github-actions-release-lane-%EA%B5%AC%EC%B6%95-%EB%B0%8F-%EC%95%88%EC%A0%95%ED%99%94)
 - [약 3개월의 iOS CI/CD 파이프라인 구축 회고록: Tuist, Fastlane, GitHub Actions](https://velog.io/@junnkyuu/%EC%95%BD-3%EA%B0%9C%EC%9B%94%EC%9D%98-iOS-CICD-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EA%B5%AC%EC%B6%95-%ED%9A%8C%EA%B3%A0%EB%A1%9D-Tuist-Fastlane-GitHub-Actions)
 
