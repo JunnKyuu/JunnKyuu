@@ -9,10 +9,9 @@
 <br>
 
 ### ✏️ Velog 최신글
+- [애플페이 티머니 교통카드 출시!](https://velog.io/@junnkyuu/%EC%95%A0%ED%94%8C%ED%8E%98%EC%9D%B4-%ED%8B%B0%EB%A8%B8%EB%8B%88-%EA%B5%90%ED%86%B5%EC%B9%B4%EB%93%9C-%EC%B6%9C%EC%8B%9C)
 - [첫 기술 면접 후기 - 평가는 없었고 성장만 있었다](https://velog.io/@junnkyuu/%EC%B2%AB-%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%ED%9B%84%EA%B8%B0-%ED%8F%89%EA%B0%80%EB%8A%94-%EC%97%86%EC%97%88%EA%B3%A0-%EC%84%B1%EC%9E%A5%EB%A7%8C-%EC%9E%88%EC%97%88%EB%8B%A4)
 - [Combine과 ViewModel, [weak self]를 깜빡하면 메모리 누수로 앱터짐❗️](https://velog.io/@junnkyuu/Combine%EA%B3%BC-ViewModel-weak-self%EB%A5%BC-%EA%B9%9C%EB%B9%A1%ED%95%98%EB%A9%B4-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98%EB%A1%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98%EB%A1%9C-%EC%95%B1%ED%84%B0%EC%A7%90)
-- [Fastlane + Github Actions release lane 구축 및 안정화](https://velog.io/@junnkyuu/Github-actions-release-lane-%EA%B5%AC%EC%B6%95-%EB%B0%8F-%EC%95%88%EC%A0%95%ED%99%94)
-- [약 3개월의 iOS CI/CD 파이프라인 구축 회고록: Tuist, Fastlane, GitHub Actions](https://velog.io/@junnkyuu/%EC%95%BD-3%EA%B0%9C%EC%9B%94%EC%9D%98-iOS-CICD-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EA%B5%AC%EC%B6%95-%ED%9A%8C%EA%B3%A0%EB%A1%9D-Tuist-Fastlane-GitHub-Actions)
 
 <br>
 
