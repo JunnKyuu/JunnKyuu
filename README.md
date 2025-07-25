@@ -32,10 +32,15 @@
 #### 🍎 App(iOS)
 
 **투명지(서비스 운영중)**
-  - 투명한 명지의 줄임말로, 학생회비 사용 내역을 투명하고 간편하게 조회할 수 있는 서비스
+  - 투명한 명지의 줄임말로, 학생회비 사용 내역을 투명하고 간편하게 조회할 수 있는 서비스(SwiftUI 기반)
   - [App Store](https://apps.apple.com/kr/app/%ED%88%AC%EB%AA%85%EC%A7%80/id6743519294)
   - [소스코드](https://github.com/JunnKyuu/ToMyongJi-iOS)
   - [ToMyongJi(iOS) 작업 일지](https://junnkyuu.notion.site/14ec39f2249a80f888f6e01041c45964?v=7d3b57cef6e1467bbedbd158296a8dcb)
+
+**직관가자(개발중)**
+  - K리그 팬들을 위한 가장 빠르고 정확한 경기장 날씨 정보 서비스(UIKit 기반)
+  - [소스코드](https://github.com/KLeague-Weather/KLeague-Weather-iOS)
+  - [직관가자 작업 일지](https://junnkyuu.notion.site/238c39f2249a808ca5dee4facdcb6104?v=238c39f2249a813b8f51000c857fecb3)
 
 <br>
 
@@ -46,7 +51,7 @@
   - [소스코드](https://github.com/JunnKyuu/ToMyongJi-front)
   - [Blog - TomyongJi(Web)](https://velog.io/@junnkyuu/SW%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9B%84%EA%B8%B0)
 
-**Perform**
+**Perform(서비스 종료)**
   - For your perfect form, 헬스자세 피드백 서비스
   - [소스코드](https://github.com/JunnKyuu/perform-front)
   - [Perform URL](https://perfect-form-chi.vercel.app/)
