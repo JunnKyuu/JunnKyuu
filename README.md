@@ -36,11 +36,6 @@
   - [소스코드](https://github.com/JunnKyuu/ToMyongJi-iOS)
   - [ToMyongJi(iOS) 작업 일지](https://junnkyuu.notion.site/14ec39f2249a80f888f6e01041c45964?v=7d3b57cef6e1467bbedbd158296a8dcb)
 
-**직관가자(개발중)**
-  - K리그 팬들을 위한 가장 빠르고 정확한 경기장 날씨 정보 서비스(UIKit 기반)
-  - [소스코드](https://github.com/KLeague-Weather/KLeague-Weather-iOS)
-  - [직관가자 작업 일지](https://junnkyuu.notion.site/238c39f2249a808ca5dee4facdcb6104?v=238c39f2249a813b8f51000c857fecb3)
-
 <br>
 
 #### 🖥️ Web
