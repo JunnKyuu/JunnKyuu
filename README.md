@@ -9,8 +9,8 @@
 <br>
 
 ### ✏️ Velog 최신글
+- [❗️"심사를 통과하지 못함" - 첫 App Store 심사 반려 및 대응 후기](https://velog.io/@junnkyuu/%EC%8B%AC%EC%82%AC%EB%A5%BC-%ED%86%B5%EA%B3%BC%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%A8-%EC%B2%AB-App-Store-%EC%8B%AC%EC%82%AC-%EB%B0%98%EB%A0%A4-%EB%B0%8F-%EB%8C%80%EC%9D%91-%ED%9B%84%EA%B8%B0)
 - [App Store 심사를 취소하면 더 오래 걸리는 이유](https://velog.io/@junnkyuu/App-Store-%EC%8B%AC%EC%82%AC%EB%A5%BC-%EC%B7%A8%EC%86%8C%ED%95%98%EB%A9%B4-%EB%8D%94-%EC%98%A4%EB%9E%98-%EA%B1%B8%EB%A6%AC%EB%8A%94-%EC%9D%B4%EC%9C%A0)
-- [애플페이 티머니 교통카드 출시!](https://velog.io/@junnkyuu/%EC%95%A0%ED%94%8C%ED%8E%98%EC%9D%B4-%ED%8B%B0%EB%A8%B8%EB%8B%88-%EA%B5%90%ED%86%B5%EC%B9%B4%EB%93%9C-%EC%B6%9C%EC%8B%9C)
 
 <br>
 
@@ -44,12 +44,6 @@
   - [투명지 URL](https://www.tomyongji.com/)
   - [소스코드](https://github.com/JunnKyuu/ToMyongJi-front)
   - [Blog - TomyongJi(Web)](https://velog.io/@junnkyuu/SW%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9B%84%EA%B8%B0)
-
-**Perform(서비스 종료)**
-  - For your perfect form, 헬스자세 피드백 서비스
-  - [소스코드](https://github.com/JunnKyuu/perform-front)
-  - [Perform URL](https://perfect-form-chi.vercel.app/)
-  - [Blog - Perform](https://velog.io/@junnkyuu/%EB%A9%8B%EC%9F%81%EC%9D%B4%EC%82%AC%EC%9E%90%EC%B2%98%EB%9F%BC-%ED%95%B4%EC%BB%A4%ED%86%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9B%84%EA%B8%B0)
 
 <br>
 
